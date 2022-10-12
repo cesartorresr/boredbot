@@ -4,5 +4,7 @@
 
 Today I learned about API, so basically is a really simple app that tells you what you can do if you are bored. Take data from an API and use in this web site with Fetch🚀
 
+See the App here: https://cesartorresr.github.io/boredbot/
+
 
 Happy Coding!
